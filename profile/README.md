@@ -59,37 +59,62 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="assets/guoren-wang.png" width="170" alt="Guoren Wang"><br>
-      <b>Guoren Wang</b>
+    
+    <td width="33%" valign="top">
+      <h3>
+          Guoren Wang
+      </h3>
+      <b>Professor · Doctoral Supervisor</b>
+      <br><br>
+      <b>Research Interests</b>
+      <ul>
+        <li>Database Systems</li>
+        <li>Uncertain Data Management</li>
+        <li>Multimedia Data Management</li>
+        <li>Distributed Query Processing</li>
+      </ul>
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm">
+        Faculty Homepage →
       </a>
-      <br>
-      Professor / Doctoral Supervisor
-      <br>
-      <sub>Database Systems, Uncertain Data, Multimedia Data, Distributed Query Processing</sub>
-      <br><br>
-      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm">Homepage</a>
     </td>
-    <td align="center" width="33%">
-      <img src="assets/ye-yuan.png" width="170" alt="Ye Yuan"><br>
-      <b>Ye Yuan</b>
-      <br>
-      Professor / Doctoral Supervisor
-      <br>
-      <sub>Big Data Management, Graph Data, Spatio-temporal Data, Distributed Computing</sub>
+
+    <td width="33%" valign="top">
+      <h3>
+          Ye Yuan
+      </h3>
+      <b>Professor · Doctoral Supervisor</b>
       <br><br>
-      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/872015590c7547eaa9ea4d7bed5f53fb.htm">Homepage</a>
+      <b>Research Interests</b>
+      <ul>
+        <li>Big Data Management</li>
+        <li>Graph Data Management</li>
+        <li>Spatio-temporal Data</li>
+        <li>Distributed Computing</li>
+      </ul>
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/872015590c7547eaa9ea4d7bed5f53fb.htm">
+        Faculty Homepage →
+      </a>
     </td>
-    <td align="center" width="33%">
-      <img src="assets/chengliang-chai.png" width="170" alt="Chengliang Chai"><br>
-      <b>Chengliang Chai</b>
-      <br>
-      Associate Professor / Doctoral Supervisor
-      <br>
-      <sub>Data-centric AI, Large Language Models, Data Lakes, Database Systems</sub>
+    
+    <td width="33%" valign="top">
+      <h3>
+          Chengliang Chai
+      </h3>
+      <b>Associate Professor · Doctoral Supervisor</b>
       <br><br>
-      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm">Homepage</a>
+      <b>Research Interests</b>
+      <ul>
+        <li>Data-centric AI</li>
+        <li>Large Language Models</li>
+        <li>Data Lakes</li>
+        <li>Database Systems</li>
+      </ul>
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm">
+        Faculty Homepage →
+      </a>
     </td>
+    
+
   </tr>
 </table>
 
