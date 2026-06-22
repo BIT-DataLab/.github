@@ -10,6 +10,20 @@
   School of Computer Science, Beijing Institute of Technology
 </p>
 
+<p align="center">
+  <a href="https://github.com/BIT-DataLab">
+    <img
+      src="https://img.shields.io/github/stars/BIT-DataLab?style=social"
+      alt="BIT DataLab GitHub Stars"
+    >
+  </a>
+  <a href="https://github.com/BIT-DataLab">
+    <img
+      src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BIT-DataLab&query=$.followers&label=Followers&logo=github&style=social"
+      alt="BIT DataLab GitHub Followers"
+    >
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/BIT-DataLab">GitHub</a>
@@ -46,22 +60,19 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm">
-        <img src="assets/chengliang-chai.png" width="170" alt="Chengliang Chai"><br>
-        <b>Chengliang Chai</b>
+      <img src="assets/guoren-wang.png" width="170" alt="Guoren Wang"><br>
+      <b>Guoren Wang</b>
       </a>
       <br>
-      Associate Professor / Doctoral Supervisor
+      Professor / Doctoral Supervisor
       <br>
-      <sub>Data-centric AI, Large Language Models, Data Lakes, Database Systems</sub>
+      <sub>Database Systems, Uncertain Data, Multimedia Data, Distributed Query Processing</sub>
       <br><br>
-      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm">Homepage</a>
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm">Homepage</a>
     </td>
     <td align="center" width="33%">
-      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/872015590c7547eaa9ea4d7bed5f53fb.htm">
-        <img src="assets/ye-yuan.png" width="170" alt="Ye Yuan"><br>
-        <b>Ye Yuan</b>
-      </a>
+      <img src="assets/ye-yuan.png" width="170" alt="Ye Yuan"><br>
+      <b>Ye Yuan</b>
       <br>
       Professor / Doctoral Supervisor
       <br>
@@ -70,16 +81,14 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
       <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/872015590c7547eaa9ea4d7bed5f53fb.htm">Homepage</a>
     </td>
     <td align="center" width="33%">
-      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm">
-        <img src="assets/guoren-wang.png" width="170" alt="Guoren Wang"><br>
-        <b>Guoren Wang</b>
-      </a>
+      <img src="assets/chengliang-chai.png" width="170" alt="Chengliang Chai"><br>
+      <b>Chengliang Chai</b>
       <br>
-      Professor / Doctoral Supervisor
+      Associate Professor / Doctoral Supervisor
       <br>
-      <sub>Database Systems, Uncertain Data, Multimedia Data, Distributed Query Processing</sub>
+      <sub>Data-centric AI, Large Language Models, Data Lakes, Database Systems</sub>
       <br><br>
-      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm">Homepage</a>
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm">Homepage</a>
     </td>
   </tr>
 </table>
