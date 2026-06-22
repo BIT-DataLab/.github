@@ -35,9 +35,6 @@
   <a href="#featured-projects">Featured Projects</a>
 </p>
 
-
----
-
 ## About Us
 
 BIT DataLab is a research group at the School of Computer Science, Beijing Institute of Technology.  
@@ -117,7 +114,6 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
 
   </tr>
 </table>
-
 
 ## Featured Projects
 
