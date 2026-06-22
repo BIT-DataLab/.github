@@ -56,7 +56,6 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
 
 <table>
   <tr>
-    
     <td width="33%" valign="top">
       <h3>
           Guoren Wang
@@ -110,8 +109,6 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
         Faculty Homepage →
       </a>
     </td>
-    
-
   </tr>
 </table>
 
