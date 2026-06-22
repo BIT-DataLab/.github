@@ -73,7 +73,6 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
         Faculty Homepage →
       </a>
     </td>
-
     <td width="33%" valign="top">
       <h3>
           Ye Yuan
@@ -91,7 +90,6 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
         Faculty Homepage →
       </a>
     </td>
-    
     <td width="33%" valign="top">
       <h3>
           Chengliang Chai
