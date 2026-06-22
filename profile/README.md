@@ -30,8 +30,6 @@
   ·
   <a href="https://cs.bit.edu.cn/">School of Computer Science</a>
   ·
-  <a href="#faculty">Faculty</a>
-  ·
   <a href="#featured-projects">Featured Projects</a>
 </p>
 
@@ -39,7 +37,6 @@
 
 BIT DataLab is a research group at the School of Computer Science, Beijing Institute of Technology.  
 Our research focuses on data management, database systems, data-centric AI, large language models, data lakes, graph and spatio-temporal data, distributed data processing, and intelligent data analysis.
-
 We build practical systems, open-source tools, datasets, and benchmarks for the research community.
 
 ## Research Areas
@@ -88,8 +85,6 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
 ## Join Us
 
 We welcome motivated undergraduate students, graduate students, doctoral candidates, research interns, and collaborators who are interested in data management, database systems, data-centric AI, and large language models.
-
-Please visit the faculty homepages above for current research topics, supervision information, and contact details.
 
 ## Links
 
