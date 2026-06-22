@@ -52,35 +52,6 @@ We build practical systems, open-source tools, datasets, and benchmarks for the 
 - **Distributed Data Processing and Query Optimization**
 - **Data Quality, Cleaning, Integration, and Provenance**
 
-## Faculty
-
-### [Guoren Wang](https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm)
-
-**Professor · Doctoral Supervisor**
-
-`Database Systems` `Uncertain Data Management` `Multimedia Data Management` `Distributed Query Processing`
-
-[Homepage →](https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm)
-
----
-
-### [Ye Yuan](https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/872015590c7547eaa9ea4d7bed5f53fb.htm)
-
-**Professor · Doctoral Supervisor**
-
-`Big Data Management` `Graph Data Management` `Spatio-temporal Data` `Distributed Computing`
-
-[Homepage →](https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/872015590c7547eaa9ea4d7bed5f53fb.htm)
-
----
-
-### [Chengliang Chai](https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm)
-
-**Associate Professor · Doctoral Supervisor**
-
-`Data-centric AI` `Large Language Models` `Data Lakes` `Database Systems`
-
-[Homepage →](https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm)
 
 ## Featured Projects
 
