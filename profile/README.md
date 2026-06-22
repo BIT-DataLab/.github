@@ -1,41 +1,137 @@
-# BIT DataLab
+<p align="center">
+  <img src="assets/logo.png" width="150" alt="BIT DataLab Logo">
+</p>
 
-School of Computer Science
 
-Beijing Institute of Technology
+<h1 align="center">BIT DataLab</h1>
+
+<p align="center">
+  <b>Data Intelligence and Database Systems Lab</b><br>
+  School of Computer Science, Beijing Institute of Technology
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/BIT-DataLab">GitHub</a>
+  ·
+  <a href="https://cs.bit.edu.cn/">School of Computer Science</a>
+  ·
+  <a href="#faculty">Faculty</a>
+  ·
+  <a href="#featured-projects">Featured Projects</a>
+</p>
+
 
 ---
 
 ## About Us
 
-BIT DataLab is a research laboratory focusing on:
+BIT DataLab is a research group at the School of Computer Science, Beijing Institute of Technology.  
+Our research focuses on data management, database systems, data-centric AI, large language models, data lakes, graph and spatio-temporal data, distributed data processing, and intelligent data analysis.
 
-- Data Management
-- Data Intelligence
-- Large Language Models
-- Data Cleaning
-- Data-centric AI
+We build practical systems, open-source tools, datasets, and benchmarks for the research community.
 
----
+## Research Areas
+
+- **Data Management and Database Systems**
+- **Data-centric AI and Data Preparation**
+- **Large Language Models for Data Analysis**
+- **Data Lakes, Data Discovery, and Retrieval-Augmented Generation**
+- **Graph, Spatio-temporal, Multimedia, and Uncertain Data**
+- **Distributed Data Processing and Query Optimization**
+- **Data Quality, Cleaning, Integration, and Provenance**
+
+## Faculty
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm">
+        <img src="assets/chengliang-chai.png" width="170" alt="Chengliang Chai"><br>
+        <b>Chengliang Chai</b>
+      </a>
+      <br>
+      Associate Professor / Doctoral Supervisor
+      <br>
+      <sub>Data-centric AI, Large Language Models, Data Lakes, Database Systems</sub>
+      <br><br>
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm">Homepage</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/872015590c7547eaa9ea4d7bed5f53fb.htm">
+        <img src="assets/ye-yuan.png" width="170" alt="Ye Yuan"><br>
+        <b>Ye Yuan</b>
+      </a>
+      <br>
+      Professor / Doctoral Supervisor
+      <br>
+      <sub>Big Data Management, Graph Data, Spatio-temporal Data, Distributed Computing</sub>
+      <br><br>
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/872015590c7547eaa9ea4d7bed5f53fb.htm">Homepage</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm">
+        <img src="assets/guoren-wang.png" width="170" alt="Guoren Wang"><br>
+        <b>Guoren Wang</b>
+      </a>
+      <br>
+      Professor / Doctoral Supervisor
+      <br>
+      <sub>Database Systems, Uncertain Data, Multimedia Data, Distributed Query Processing</sub>
+      <br><br>
+      <a href="https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm">Homepage</a>
+    </td>
+  </tr>
+</table>
+
 
 ## Featured Projects
 
-### 🍌 Edit-Banana
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/BIT-DataLab/Edit-Banana">Edit-Banana</a></h3>
+      A framework for converting statistical figures and visual content into editable formats.
+      <br><br>
+      <a href="https://github.com/BIT-DataLab/Edit-Banana"><b>View repository →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/BIT-DataLab/LakeBench">LakeBench</a></h3>
+      A benchmark and research resource for discovering joinable and unionable tables in data lakes.
+      <br><br>
+      <a href="https://github.com/BIT-DataLab/LakeBench"><b>View repository →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/BIT-DataLab/Bench-U">Bench-U</a></h3>
+      A comprehensive benchmark for unstructured data analysis with large language models.
+      <br><br>
+      <a href="https://github.com/BIT-DataLab/Bench-U"><b>View repository →</b></a>
+    </td>
+  </tr>
+</table>
 
-A framework for converting statistical formats into editable formats.
 
-### 🌊 LakeBench
+## More Open-source Work
 
-Benchmark for Data Lake Systems.
+- [PaperCitedRemarkAnalysis](https://github.com/BIT-DataLab/PaperCitedRemarkAnalysis) — An end-to-end pipeline for analyzing how influential citations refer to a target paper.
+- [bench-u-page](https://github.com/BIT-DataLab/bench-u-page) — Web resources for Bench-U.
+- [All repositories](https://github.com/orgs/BIT-DataLab/repositories)
 
-### 📊 Bench-U
+## Join Us
 
-Benchmark for Unstructured Data Analysis using LLMs.
+We welcome motivated undergraduate students, graduate students, doctoral candidates, research interns, and collaborators who are interested in data management, database systems, data-centric AI, and large language models.
+
+Please visit the faculty homepages above for current research topics, supervision information, and contact details.
+
+## Links
+
+- [BIT DataLab on GitHub](https://github.com/BIT-DataLab)
+- [School of Computer Science, Beijing Institute of Technology](https://cs.bit.edu.cn/)
+- [Beijing Institute of Technology](https://www.bit.edu.cn/)
 
 ---
 
-## Contact
+<p align="center">
+  <sub>BIT DataLab · School of Computer Science · Beijing Institute of Technology</sub>
+</p>
 
-Prof. Chengliang Chai
-
-Beijing Institute of Technology
